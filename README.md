@@ -1,7 +1,6 @@
 # 🚀  Welcome, you have landed!  🚀 
 
-Hi there! My name is Yavor and I am a wedding and event photographer based in Munich. 
-I'm currently taking part in a Web Development Bootcamp by neuefische.
+Hi there! My name is Yavor and I'm currently taking part in a Web Development Bootcamp by neuefische.
 
 ![Black & White GIF_photographer](https://media.giphy.com/media/NMBqdKUKQ3aLe/giphy.gif)
 
