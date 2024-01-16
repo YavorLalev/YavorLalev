@@ -9,6 +9,7 @@ Hi there! My name is Yavor and I'm currently taking part in a Web Development Bo
 - CSS
 - JavaScript
 - React
+- Next.js
 
 ## My tech skills 📡
 - Adobe Photoshop
